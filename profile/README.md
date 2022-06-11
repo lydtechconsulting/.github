@@ -1,4 +1,4 @@
-# Lydtech Consulting Limited
+# About Us
 
 Lydtech Consulting provides software and architectural consultancy services to clients around the globe.
 
