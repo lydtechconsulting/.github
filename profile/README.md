@@ -6,4 +6,4 @@ We manage software development projects from specification and inception to deli
 
 Visit our [website](https://www.lydtechconsulting.com/).
 
-Read our technical articles in our [Medium publication](https://medium.com/lydtech-consulting).
+Many of the example projects in this repository accompany our technical articles in our [Medium publication](https://medium.com/lydtech-consulting).
